@@ -2,3 +2,6 @@ note.txt
 .idea
 .venv
 *.mp4
+build/
+dist/
+silence_remover_ad.egg-info/
